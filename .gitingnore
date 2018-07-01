@@ -1,7 +1,7 @@
-/__pycache__
-/handson-ml
-/models
-/tf_logs
-/tmp
-/.git
-/.idea
+/__pycache__/*
+/handson-mlv
+/models/*
+/tf_logs/*
+/tmp/*
+/.git/*
+/.idea/*
