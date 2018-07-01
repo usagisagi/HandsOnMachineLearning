@@ -1,0 +1,7 @@
+__pycache__/
+handson-ml/
+models/
+tf_logs/
+tmp/
+.git/
+.idea/
