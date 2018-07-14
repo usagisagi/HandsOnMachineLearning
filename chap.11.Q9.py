@@ -3,8 +3,8 @@ from functools import partial
 import numpy as np
 from datetime import datetime
 from sklearn.model_selection import cross_val_score
-from chap11_util import *
-import chap11_util
+from my_util import *
+import my_util
 
 
 def dnn_change_softmax(train_x, train_y,

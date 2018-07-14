@@ -4,7 +4,7 @@ from functools import partial
 import numpy as np
 import tensorflow as tf
 
-from chap11_util import predict, slice_mnist, get_mnist_data, get_logdir
+from my_util import predict, slice_mnist, get_mnist_data, get_logdir
 
 
 def dnn(train_x, train_y,
