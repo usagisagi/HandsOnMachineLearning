@@ -2,6 +2,9 @@ __pycache__/
 handson-ml/
 models/
 tf_logs/
+flower_photos/
+inception_v3_2016_08_28/
+inception_5h/
 tmp/
 .git/
 .idea/
